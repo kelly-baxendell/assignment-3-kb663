@@ -1,0 +1,14 @@
+---
+title: "Kelly Baxendell"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## About me
+
+  * I'm currently a Master of Public Health student studying infectious disease epidemiology.
+  * I have 2 cats named Frank and Charlie. My favorite show is It's Always Sunny in Philadelphia.
+  * I did gymnastics growing up and played D1 rugby in college.
