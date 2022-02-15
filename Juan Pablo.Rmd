@@ -1,0 +1,14 @@
+---
+title: "Juan Pablo Jordán"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## About me:
+
+  * I'm currently a PhD student in Chemical ecology studying plant secondary metabolism induction through neighborhood and its consecuences to herbivores/pathogens.
+  * I am originaly from Ecuador and recently moved to Ithaca for gradschool.
+  * I played volleyball all throught highschool and college.
